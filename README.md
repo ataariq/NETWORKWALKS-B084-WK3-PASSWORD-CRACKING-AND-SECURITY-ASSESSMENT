@@ -57,7 +57,7 @@ environment using files provided by NetworkWalks.
 Verified the installation of John the Ripper, Johnny,
 and PDF2John within Kali Linux.
 
-![Tool Installation](Screenshots/01-Johnny-Installation-PDF.png)
+![Tool Installation](Screenshots/01-Johnny-Installation-Verification-PDF.png)
 
 ## Step 2: Verify Password Protection
 
