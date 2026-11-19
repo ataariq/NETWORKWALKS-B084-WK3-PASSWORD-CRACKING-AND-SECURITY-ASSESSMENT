@@ -111,7 +111,7 @@ password, confirming the password recovery results.
 Used the NetworkWalks Hash Calculator to extract
 password-verification data from the supplied PDF.
 
-![NetworkWalks Hash Calculator](Screenshots/07-Calculating-Hash-From-PDF.png)
+![NetworkWalks Hash Calculator](Screenshots/07-Calculating-Hash-For-PDF.png)
 
 ## Step 2: Dictionary Attack
 
