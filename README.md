@@ -64,7 +64,7 @@ and PDF2John within Kali Linux.
 Opened the supplied PDF and confirmed that the document
 required a password before its contents could be accessed.
 
-![Password Protected PDF](Screenshots/02-Password-Protected-PDF.png)
+![Password Protected PDF](Screenshots/02-Password-Protacted-PDF.png)
 
 ## Step 3: PDF Hash Extraction
 
